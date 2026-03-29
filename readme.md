@@ -189,13 +189,12 @@ Research paper on **Adaptive Temporal Abstraction Learning** — a novel approac
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamim-shadman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tamim's GitHub Stats" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamim-shadman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="./assets/stats.svg" alt="Tamim's GitHub Stats" />
+  <img src="./assets/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tamim-shadman&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=tamim-shadman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
@@ -255,6 +254,6 @@ PyTorch, Transformers, building neural networks, and processing large-scale data
 
 [![](https://visitcount.itsvg.in/api?id=tamim-shadman&icon=6&color=1)](https://visitcount.itsvg.in)
 
-*Built with ❤️ in Dhaka · Open to remote opportunities worldwide*
+*Built with ❤️ by Tamim· Open to remote opportunities worldwide*
 
 </div>
