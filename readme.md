@@ -189,20 +189,16 @@ Research paper on **Adaptive Temporal Abstraction Learning** — a novel approac
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamim-shadman&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamim-shadman&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tamim-shadman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tamim's GitHub Stats" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamim-shadman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tamim-shadman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tamim-shadman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com?user=tamim-shadman&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
+
+
 
 ---
 
@@ -248,7 +244,7 @@ PyTorch, Transformers, building neural networks, and processing large-scale data
 ## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p>
 
 ---
@@ -259,6 +255,6 @@ PyTorch, Transformers, building neural networks, and processing large-scale data
 
 [![](https://visitcount.itsvg.in/api?id=tamim-shadman&icon=6&color=1)](https://visitcount.itsvg.in)
 
-*Built with ❤️ by Tamim · Open to remote opportunities worldwide*
+*Built with ❤️ in Dhaka · Open to remote opportunities worldwide*
 
 </div>
