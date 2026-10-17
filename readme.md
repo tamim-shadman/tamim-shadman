@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tamimshadman)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tamim-shadman)
-[![Profile Views](https://views.igorkowalczyk.dev/api/badge/tamim-shadman?style=flat&color=63b3ed&labelColor=121011&label=PROFILE+VIEWS)](https://github.com/tamim-shadman)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=tamim-shadman.tamim-shadman&left_text=PROFILE%20VIEWS&left_color=%23121011&right_color=%2363b3ed&radius=0&height=28)](https://github.com/tamim-shadman)
 
 </div>
 
